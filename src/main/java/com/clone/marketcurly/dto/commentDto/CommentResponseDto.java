@@ -1,5 +1,6 @@
 package com.clone.marketcurly.dto.commentDto;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -17,5 +18,7 @@ public class CommentResponseDto {
     private Long commentId;
     private String nickname;
     private String comment;
+
+    @JsonFormat(pattern = "yyyy-MM-dd")
     private LocalDateTime createdAt;
 }
