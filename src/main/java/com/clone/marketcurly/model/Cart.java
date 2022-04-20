@@ -36,11 +36,15 @@ public class Cart extends Timestamped {
     @Column(nullable = false)
     private int sum;
 
+    @Column(nullable = false)
+    private boolean checked;
+
     public Cart(User user, Long productId, int quantity, int sum) {
         this.user = user;
         this.productId = productId;
         this.quantity = quantity;
         this.sum = sum;
+        this.checked=true;
     }
 
 }

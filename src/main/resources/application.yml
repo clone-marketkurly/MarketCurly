@@ -14,3 +14,15 @@ spring:
     hibernate:
       ddl-auto: update
     generate-ddl: true
+
+#  security:
+#    oauth2:
+#      client:
+#        registration:
+#          naver:
+#            client-id:
+#            client-secret:
+#            scope:
+#            -name
+#            -email
+#            -

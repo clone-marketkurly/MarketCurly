@@ -14,4 +14,5 @@ public class OrderRequestFinalDto {
 
     private Long productId;
     private int quantity;
+    private boolean checked;
 }
