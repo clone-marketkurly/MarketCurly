@@ -7,14 +7,19 @@
 **클론 대상 사이트** : [마켓컬리](https://www.kurly.com/shop/main/index.php?utm_source=1055&utm_medium=2202&utm_campaign=home_hashtag&utm_term=&gclid=Cj0KCQiA09eQBhCxARIsAAYRiymFTo_B-h_Ud0gO_bvKSG36IaBralIpgBFdb2WKsfT25LH5s8RrK-4aAm26EALw_wcB#%EB%A7%88%EC%BC%93%EC%BB%AC%EB%A6%AC&utm_content=brand)
 
 📸  **클론 페이지** : 로그인, 회원가입, 메인, 장바구니
+
 🛠  **클론 기능** : 로그인, 회원가입, 베너 슬라이드 쇼, 상품 리스트 뷰, 장바구니 모달창, 장바구니 CRUD
+
 ➤ [사이트 바로가기](https://www.youtube.com/)
 ➤ [시연영상 바로가기](https://www.youtube.com/)
-##📅 프로젝트 기간 및 팀원 👨🏻‍💻 👩‍💻
+
+## 📅 프로젝트 기간 및 팀원 👨🏻‍💻 👩‍💻
 **2022.04.15 ~ 2022.04.21**
+
 👨‍👩‍👧 **Back-End** : 김승민 백승호 엄성훈
+
 👨‍👦 **Front-End** : 강동현 정연재
-##⚔️ 기술 스택
+## ⚔️ 기술 스택
 **Back-End**
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
