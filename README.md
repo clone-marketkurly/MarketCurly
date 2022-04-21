@@ -31,8 +31,6 @@
 **Deploy**
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 ## API 명세서
-<img src="file:///C:/Users/korea/Downloads/notion%20(2).svg" width="40" alt="Notion">
-<br>
 
 [Notion](https://www.notion.so/d6ccc5c59dd841da9532f1d70a8dac0a?v=ea74b86d8e3848bd85920b580faef273)
 ## 📜  페이지 설명
