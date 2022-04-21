@@ -30,34 +30,37 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 **Deploy**
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-##API 명세서
-<img src="file:///C:/Users/korea/Downloads/notion%20(2).svg" width="40" alt="Notion"><br>[Notion](https://www.notion.so/d6ccc5c59dd841da9532f1d70a8dac0a?v=ea74b86d8e3848bd85920b580faef273)
-##📜  페이지 설명
-###📎  로그인 페이지
+## API 명세서
+<img src="file:///C:/Users/korea/Downloads/notion%20(2).svg" width="40" alt="Notion">
+<br>
+
+[Notion](https://www.notion.so/d6ccc5c59dd841da9532f1d70a8dac0a?v=ea74b86d8e3848bd85920b580faef273)
+## 📜  페이지 설명
+### 📎  로그인 페이지
 <pre>
     - JWT활용 하여 로그인 필터부분 커스터마이징
     - 토큰 정보(payload)에 username, nickname 추가하여 전송
     - 정상 로그인 시 토큰 전송, 비정상 시 에러메시지 전송
 </pre>
-###📎  회원가입 페이지
+### 📎  회원가입 페이지
 <pre>
     - 아이디 : 6~15자의 영소문자, 숫자의 조합
     - 비밀번호 : 8~16자의 영대소문자, 숫자, 특수문자의 조합
     - 아이디 중복 확인
 </pre>
-###📎  메인(신상품), 베스트, 알뜰쇼핑 페이지
+### 📎  메인(신상품), 베스트, 알뜰쇼핑 페이지
 <pre>
     -메인 페이지 및 검색 : 메인페이지는 검색어:"식자재"를 default로 구현
     -장바구니 추가 버튼 : 장바구니에 이미 있는 제품의 장바구니 추가 버튼을 누르면 장바구니의 수량 증가
     -메인 페이지, 상세 페이지, 장바구니 추가 모두 로그인 하지 않아도 접근 가능
 </pre>
-###📎  장바구니 페이지
+### 📎  장바구니 페이지
 <pre>
     - 장바구니에 담은 상품을 조회 (로그인 유저 & 비 로그인 유저)
     - 장바구니 페이지 내에서 개수 +,- 수정 기능
     - 담을 제품 삭제 기능
 </pre>
-##⛳️  역할 담당
+## ⛳️  역할 담당
 <details>
     <summary>김승민</summary>
     <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
@@ -73,7 +76,8 @@
     <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
         * [기능] 장바구니 상품추가, 장바구니 전체조회, 장바구니 물품 삭제
   </details>
-#💡Trouble Shooting
+  
+# 💡Trouble Shooting
 <details>
     <summary>마켓컬리 API를 끌어올 수 없어서 네이버 쇼핑 API 사용</summary>
     <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
