@@ -28,13 +28,17 @@
 <img src= "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width="110" height="30"/>
 <br>
 **DBMS**
+<br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
 **Deploy**
+<br>
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+<br>
 ## API 명세서
 
 [Notion](https://www.notion.so/d6ccc5c59dd841da9532f1d70a8dac0a?v=ea74b86d8e3848bd85920b580faef273)
+<br>
 ## 📜  페이지 설명
 ### 📎  로그인 페이지
 <pre>
