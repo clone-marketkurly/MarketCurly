@@ -10,8 +10,8 @@
 
 🛠  **클론 기능** : 로그인, 회원가입, 베너 슬라이드 쇼, 상품 리스트 뷰, 장바구니 모달창, 장바구니 CRUD, 리뷰 CRUD
 
-➤ [사이트 바로가기](https://www.youtube.com/)
-➤ [시연영상 바로가기](https://www.youtube.com/)
+➤ [사이트 바로가기](http://marketkkurly.s3-website.ap-northeast-2.amazonaws.com/)
+➤ [시연영상 바로가기](https://youtu.be/7TeThbOcbZ4/)
 
 ## 📅 프로젝트 기간 및 팀원 👨🏻‍💻 👩‍💻
 **2022.04.15 ~ 2022.04.21**
