@@ -1,7 +1,11 @@
 # MarketCury
+
 ##☑️요약
+
 ###항해99 6기, 9조 클론코딩
+
 **클론 대상 사이트** : [마켓컬리](https://www.kurly.com/shop/main/index.php?utm_source=1055&utm_medium=2202&utm_campaign=home_hashtag&utm_term=&gclid=Cj0KCQiA09eQBhCxARIsAAYRiymFTo_B-h_Ud0gO_bvKSG36IaBralIpgBFdb2WKsfT25LH5s8RrK-4aAm26EALw_wcB#%EB%A7%88%EC%BC%93%EC%BB%AC%EB%A6%AC&utm_content=brand)
+
 📸  **클론 페이지** : 로그인, 회원가입, 메인, 장바구니
 🛠  **클론 기능** : 로그인, 회원가입, 베너 슬라이드 쇼, 상품 리스트 뷰, 장바구니 모달창, 장바구니 CRUD
 ➤ [사이트 바로가기](https://www.youtube.com/)
